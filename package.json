@@ -6,5 +6,8 @@
   "description": "Repositorio desechable de la prueba E2E de FOAM #165 (ADR-012 P7).",
   "scripts": {
     "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
